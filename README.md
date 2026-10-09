@@ -1,0 +1,1 @@
+# js-work42-from-part6-typescript-task2
